@@ -1,0 +1,487 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPIssueTracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-09 14:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: wpissuetracker"
+
+#: includes/class-wpissuetracker-front.php:190
+msgid "A new ticket has been submitted by a user."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A professional issue tracking and support ticket management plugin for "
+"WordPress. Easily manage and prioritize customer support tickets directly "
+"from your WordPress dashboard."
+msgstr ""
+
+#: languages/translations.php:74
+msgid "Access"
+msgstr ""
+
+#: languages/translations.php:24
+msgid "Actions"
+msgstr ""
+
+#: languages/translations.php:52
+msgid "Activate Maintenance Mode (except for authorized user)"
+msgstr ""
+
+#: languages/translations.php:53
+msgid "Activate Plugin in Frontend"
+msgstr ""
+
+#: languages/translations.php:31
+msgid "Add"
+msgstr ""
+
+#: languages/translations.php:35
+msgid "Add a comment"
+msgstr ""
+
+#: languages/translations.php:17
+msgid "Add a new ticket"
+msgstr ""
+
+#: languages/translations.php:70
+msgid "Add Method"
+msgstr ""
+
+#: languages/translations.php:67
+msgid "Add Priority"
+msgstr ""
+
+#: languages/translations.php:59
+msgid "Admin Email"
+msgstr ""
+
+#: languages/translations.php:54
+msgid "Allow Client to Change Ticket Status"
+msgstr ""
+
+#: languages/translations.php:29
+msgid "Cancel"
+msgstr ""
+
+#: languages/translations.php:34
+msgid "Change status"
+msgstr ""
+
+#: languages/translations.php:15
+msgid "Closed"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:352
+msgid "Comment cannot be empty"
+msgstr ""
+
+#: languages/translations.php:36
+msgid "Comments"
+msgstr ""
+
+#: languages/translations.php:30
+msgid "Confirm"
+msgstr ""
+
+#: languages/translations.php:26
+msgid "Confirm status change"
+msgstr ""
+
+#: languages/translations.php:32
+msgid "Created by"
+msgstr ""
+
+#: languages/translations.php:33
+msgid "Creation date"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:100
+#: includes/class-wpissuetracker-app.php:101
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:232
+#: includes/class-wpissuetracker-front.php:168
+msgid "Database error when inserting attachment:"
+msgstr ""
+
+#: languages/translations.php:51
+msgid "Default ticket status"
+msgstr ""
+
+#: languages/translations.php:20
+msgid "Description"
+msgstr ""
+
+#: languages/translations.php:25
+msgid "Details"
+msgstr ""
+
+#: languages/translations.php:27
+msgid "Do you really want to change the status of this ticket to"
+msgstr ""
+
+#: languages/translations.php:66
+msgid "Edit Priority"
+msgstr ""
+
+#: languages/translations.php:56
+msgid "Email Customization"
+msgstr ""
+
+#: languages/translations.php:48
+msgid "Email for admin"
+msgstr ""
+
+#: languages/translations.php:49
+msgid "Email for user"
+msgstr ""
+
+#: languages/translations.php:63
+msgid "Email Message"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:232
+msgid "Email settings saved successfully"
+msgstr ""
+
+#: languages/translations.php:62
+msgid "Email Subject"
+msgstr ""
+
+#: languages/translations.php:46
+msgid "Emails settings"
+msgstr ""
+
+#: languages/translations.php:57
+msgid "Enable Admin Notifications"
+msgstr ""
+
+#: languages/translations.php:58
+msgid "Enable User Notifications"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:367
+msgid "Error adding comment"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:143
+msgid "Error adding priority"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:187
+msgid "Error deleting priority"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:133
+msgid "Error inserting ticket into the database."
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:169
+msgid "Error updating priority"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:273
+msgid "Error updating ticket status"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:312
+msgid "Error updating ticket status."
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:238
+#: includes/class-wpissuetracker-front.php:174
+msgid "File upload failed:"
+msgstr ""
+
+#: languages/translations.php:45
+msgid "General settings"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:224
+msgid "General settings saved successfully"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:93
+msgid "Here are the details of your ticket."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://moezbettoumi.com"
+msgstr ""
+
+#: languages/translations.php:71
+msgid "ID"
+msgstr ""
+
+#: languages/translations.php:13
+msgid "In progress"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:168
+msgid "Insufficient permissions."
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:213
+msgid "Invalid input"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:344
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:164
+#: includes/class-wpissuetracker-front.php:101
+#: includes/class-wpissuetracker-front.php:291
+msgid "Invalid nonce."
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:89
+msgid "Maintenance"
+msgstr ""
+
+#. Author of the plugin
+msgid "MELIOZE.dev"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:261
+msgid "Missing parameters"
+msgstr ""
+
+#: languages/translations.php:38
+msgid "My Tickets"
+msgstr ""
+
+#: languages/translations.php:72
+msgid "Name"
+msgstr ""
+
+#: languages/translations.php:11
+msgid "New"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:189
+msgid "New Ticket"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:324
+msgid "No comments found"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:296
+msgid "No details found"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:116
+msgid "No priorities found"
+msgstr ""
+
+#: languages/translations.php:61
+msgid "Notification Email"
+msgstr ""
+
+#: languages/translations.php:43
+msgid "on"
+msgstr ""
+
+#: wpissuetracker.php:171
+msgid "Plugin Activation Error"
+msgstr ""
+
+#: languages/translations.php:42
+msgid "Posted by"
+msgstr ""
+
+#: languages/translations.php:65
+msgid "Priorities"
+msgstr ""
+
+#: languages/translations.php:47
+msgid "Priorities settings"
+msgstr ""
+
+#: languages/translations.php:22
+msgid "Priority"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:140
+msgid "Priority added successfully"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:184
+msgid "Priority deleted successfully"
+msgstr ""
+
+#: languages/translations.php:69
+msgid "Priority Methods"
+msgstr ""
+
+#: languages/translations.php:68
+msgid "Priority Name"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:130
+#: includes/class-wpissuetracker-settings.php:154
+msgid "Priority name is required"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:166
+msgid "Priority updated successfully"
+msgstr ""
+
+#: languages/translations.php:77
+msgid "Required fields"
+msgstr ""
+
+#: languages/translations.php:14
+msgid "Resolved"
+msgstr ""
+
+#: languages/translations.php:73
+msgid "Role"
+msgstr ""
+
+#: languages/translations.php:55
+msgid "Save"
+msgstr ""
+
+#: languages/translations.php:39
+msgid "Screenshot preview"
+msgstr ""
+
+#: languages/translations.php:37
+msgid "Send"
+msgstr ""
+
+#: languages/translations.php:41
+msgid "Send ticket"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:24
+#: includes/class-wpissuetracker-settings.php:25 languages/translations.php:44
+msgid "Settings"
+msgstr ""
+
+#: languages/translations.php:18
+msgid "Show by page"
+msgstr ""
+
+#: languages/translations.php:9
+msgid "Statistics"
+msgstr ""
+
+#: languages/translations.php:23
+msgid "Status"
+msgstr ""
+
+#: languages/translations.php:40
+msgid "Submit ticket"
+msgstr ""
+
+#. %1$s is the plugin name, %2$s is the required PHP version.
+#: wpissuetracker.php:164
+#, php-format
+msgid "The %1$s plugin requires PHP version %2$s or higher."
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:88
+msgid "The site is currently under maintenance. Please come back later."
+msgstr ""
+
+#: languages/translations.php:76
+msgid "The status has been updated successfully"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:284
+#: includes/class-wpissuetracker-app.php:318
+msgid "Ticket not found"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:300
+msgid "Ticket not found or access denied."
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:92
+msgid "Ticket Notification"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:198
+msgid "Ticket Successfully Created"
+msgstr ""
+
+#: languages/translations.php:75
+msgid "Ticket successfully created"
+msgstr ""
+
+#: languages/translations.php:16
+msgid "Tickets list"
+msgstr ""
+
+#: languages/translations.php:19
+msgid "Title"
+msgstr ""
+
+#: includes/class-wpissuetracker-app.php:181
+#: includes/class-wpissuetracker-front.php:114
+msgid "Title and description are required."
+msgstr ""
+
+#: languages/translations.php:10
+msgid "Total tickets"
+msgstr ""
+
+#: languages/translations.php:28
+msgid "Undo"
+msgstr ""
+
+#: languages/translations.php:60
+msgid "Use a Different Admin Email"
+msgstr ""
+
+#: languages/translations.php:21
+msgid "User"
+msgstr ""
+
+#: languages/translations.php:64
+msgid "User Email"
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:228
+#: includes/class-wpissuetracker-front.php:261
+msgid "User not logged in."
+msgstr ""
+
+#: languages/translations.php:50
+msgid "User Roles"
+msgstr ""
+
+#: languages/translations.php:12
+msgid "Waiting"
+msgstr ""
+
+#. Name of the plugin
+#: wpissuetracker.php:168 includes/class-wpissuetracker-app.php:90
+#: includes/class-wpissuetracker-app.php:91
+msgid "WPIssueTracker"
+msgstr ""
+
+#: includes/class-wpissuetracker-settings.php:122
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/class-wpissuetracker-front.php:199
+msgid "Your ticket has been successfully created."
+msgstr ""
