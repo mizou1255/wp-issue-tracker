@@ -18,10 +18,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 * **Ticket Management**: Easily create, update, and manage support tickets with titles, descriptions, and priority levels.
 * **Priority Levels**: Set customizable ticket priorities (e.g., Low, Medium, High).
 * **User Access Control**: Manage permissions for different user roles.
-* **File Attachments** 📎: Allow file uploads for each ticket, stored securely in a custom upload directory.
 * **Email Notifications** 📧: Send customizable notifications to admins and users when tickets are created or updated.
 * **Comment System** 💬: Facilitate ticket discussions through a built-in commenting system.
-* **Customizable Statuses** 🔄: Track ticket statuses such as "New," "In Progress," "Resolved," etc.
 
 == Installation ==
 
@@ -60,12 +58,6 @@ Only JPEG, PNG, and PDF file types are allowed for upload. Files are sanitized a
 = 1.0.0 =
 First stable release of WPIssueTracker.
 
-== REST API Endpoints ==
-
-* 🆕 `POST /wp-json/wpissuetracker/v1/create-ticket` - Create a new support ticket.
-* 📄 `GET /wp-json/wpissuetracker/v1/tickets` - Retrieve all support tickets.
-* 🔄 `POST /wp-json/wpissuetracker/v1/update-ticket-status/{id}` - Update the status of a ticket.
-
 == Developer Notes ==
 
 The plugin creates three database tables:
@@ -83,7 +75,17 @@ The plugin creates three database tables:
 
 Uploaded files are stored in `/wp-content/uploads/wpit-uploads/`. This directory is automatically created on plugin activation and deleted upon plugin deactivation.
 
+== Source Code ==
+
+The non-compressed source code for JavaScript and CSS files is available in the following directories:
+
+- JavaScript Source: `/src/api/`, `/src/apps/`, `/src/components/`, `/src/js/`
+- CSS Source: `/src/css/`
+
+The non-compressed source code is also available on our public repository:
+
+- GitHub Repository: [https://github.com/mizou1255/wp-issue-tracker](https://github.com/mizou1255/wp-issue-tracker)
+
 == Support ==
 
 For support, please use the [Support Forum](https://wordpress.org/support/plugin/wpissuetracker) or contact us at contact@melioze.com.
-

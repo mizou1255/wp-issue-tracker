@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WPIssueTracker
  * Description: A professional issue tracking and support ticket management plugin for WordPress. Easily manage and prioritize customer support tickets directly from your WordPress dashboard.
- * Plugin URI: https://moezbettoumi.com
+ * Plugin URI: https://wpit.melioze.com
  * Version: 1.0.0
  * Author: MELIOZE.dev
  * Author URI: https://moezbettoumi.com
