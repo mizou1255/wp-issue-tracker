@@ -134,8 +134,19 @@ final class WPIssueTracker
      */
     private function init_actions()
     {
+        add_action('init', [$this, 'localization_setup']);
         register_activation_hook(__FILE__, [$this->container['migration'], 'plugin_activation']);
         register_deactivation_hook(__FILE__, [$this->container['migration'], 'plugin_desactivation']);
+    }
+
+    /**
+     * Setup plugin localization
+     *
+     * @return void
+     */
+    public function localization_setup()
+    {
+        load_plugin_textdomain('wpissuetracker', false, dirname(plugin_basename(__FILE__)) . '/languages/');
     }
 
     /**
